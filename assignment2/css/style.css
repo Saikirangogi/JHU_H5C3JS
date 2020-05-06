@@ -257,4 +257,8 @@ h2 {
     .col-sm-12 {
         width: 100%;
     }
+
+    .container {
+        height: 20vh;
+    }
 }
